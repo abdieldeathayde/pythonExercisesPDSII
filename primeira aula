@@ -1,0 +1,19 @@
+a[0]
+listas (slice)
+a = [0,1,2,3,4,5,6]
+a[0:2]
+a = 1 e 2
+a[-1]
+
+insert remove append
+
+chave valor dicionarios
+
+tuplas n podem ser modificadas
+
+tupla.index()
+tupla.count()
+
+usar o colab
+nome = "abdiel"
+exercicios de fixação
